@@ -1,0 +1,38 @@
+                                                          [ PROJECT-1 STEPS ]
+--------------------------------------------------------------------------------------------------------------------------------------------
+1) I added a new column, which name is 'Employee ID'.
+
+2) Then, I removed duplicate values from Power Queries
+
+3) Next, I click 'ctrl+shift' for select all columns, and select on transform tab, 
+              then click on "Detect Data Type"
+
+4) After that, I removed Errors, and then go to 'Home' tab in "Power Queries",
+            and then click on "Close & Apply" button
+
+5) Then, I start my project in Power BI using the given dataset in 'GitHub'.
+
+6) i) Histograms and Box Plots
+ii) KPI
+iii) Turnover Rate
+iv) Charts and Cards
+v) Over-Time by Turnover Trends
+vi) Table
+vii) Forecasting
+viii) Tooltips
+ix) Drill Through
+x) Dashboard with Slicer Filter
+
+----------------------------------------------------------[ ML-Power Bi ]---------------------------------------------------------------
+
+1) Binary Classification : Decision Tree
+
+2) Confusion-Matrix & Accuracy
+
+3) Correlation Matrix
+
+
+
+
+
+
